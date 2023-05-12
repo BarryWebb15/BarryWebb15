@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarryWebb15
 - 👀 I’m interested in all languages of programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on challenging projects
+- 💞️ I’m looking to take on challenging projects
 - 📫 How to reach me barrywebb15@gmail.com
 
 <!---
